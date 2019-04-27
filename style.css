@@ -1,0 +1,44 @@
+.subh {
+  color: darkblue;
+  text-align: center;
+  font-size: 28pt;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+.main {
+  color: darkblue;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 35px
+}
+p {
+  color: rebeccapurple;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+.label {
+  color: darkblue;
+  text-anchor: middle;
+  font-size: 10pt
+}
+
+.navlabel {
+  color: rgb(179, 41, 179);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 24pt;
+}
+
+#navbarSupportedContent {
+  text-align: right; 
+}
+
+.chartlabel {
+  color: darkblue;
+  text-align: center;
+}
+
+.navbar-nav {
+  color: purple;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 16pt;
+}
